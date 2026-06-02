@@ -1,0 +1,7 @@
+
+> app@1.0.0 start
+> node index.js
+
+Database synchronized successfully.
+Server is running on port 3000
+Terminated
